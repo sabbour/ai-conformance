@@ -1,3 +1,11 @@
+# BETA: Get Involved In Defining AI Conformance
+
+*See Kubernetes sig-arch mailing list to get involved with defining kubernetes AI conformance efforts:*
+
+https://groups.google.com/g/kubernetes-sig-architecture/c/J18VkQDLCQo/m/jaE0JAI4AQAJ
+
+---
+
 # Certified AI Platform Conformance Program
 
 All vendors are invited to submit conformance testing results for review and certification by the CNCF.
