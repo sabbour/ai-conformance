@@ -4,6 +4,10 @@
 
 https://groups.google.com/g/kubernetes-sig-architecture/c/J18VkQDLCQo/m/jaE0JAI4AQAJ
 
+Also see this public planning document:
+
+https://docs.google.com/document/d/1hXoSdh9FEs13Yde8DivCYjjXyxa7j4J8erjZPEGWuzc/edit?tab=t.0#heading=h.9j85ih1tpsk
+
 ---
 
 # Certified AI Platform Conformance Program
