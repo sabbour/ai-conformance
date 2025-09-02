@@ -1,8 +1,8 @@
 # BETA: Get Involved In Defining AI Conformance
 
-*See Kubernetes sig-arch mailing list to get involved with defining kubernetes AI conformance efforts:*
+*Join Kubernetes AI Conformance WG to get involved with defining kubernetes AI conformance efforts:*
 
-https://groups.google.com/g/kubernetes-sig-architecture/c/J18VkQDLCQo/m/jaE0JAI4AQAJ
+https://github.com/kubernetes/community/tree/master/wg-ai-conformance
 
 Also see this public planning document:
 
