@@ -1,15 +1,9 @@
 # Kubernetes AI Conformance Checklist
-# Conformance Version: 0.1
-# Kubernetes Version: 1.34
-# Platform Name: [Specify Platform Name]
-# Platform Version: [Specify Platform Version]
-# Vendor: [Specify Vendor Name] 
-# Submission Date: [YYYY-MM-DD] 
-# Notes: This checklist is based on the Kubernetes AI Conformance document. 
+# Notes: This checklist is based on the Kubernetes AI Conformance document.
 # Participants should fill in the 'status', 'evidence', and 'notes' fields for each requirement.
 
 metadata:
-  conformanceVersion: 0.2
+  conformanceVersion: 1.34
   kubernetesVersion: 1.34
   platformName: "[Platform Name]"
   platformVersion: "[Platform Version]"
