@@ -9,7 +9,7 @@ All `MUST` statements must be fullfilled and documented to achieve Conformance. 
 
 ## Release Freeze
 
-The Conformance Docs are bound to the Kubernetes Release Freeze and will not change after the Freeze for the upcomming 
+The `AIConformance` release documents are bound to the Kubernetes Release Freeze and will not change after the Freeze for the upcoming 
 Kubernetes Release is happening. 
 Once the Freeze is in place a new `AIConformance-1.xx.yaml` will be added, so vendors can adjust to it. The content of the 
 Conformance self assessment is being defined by the Kubernetes Community - currently [WG AI Conformance](https://github.com/kubernetes/community/tree/master/wg-ai-conformance)
