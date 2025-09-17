@@ -5,7 +5,7 @@
 Each `AIConformance-1.xx.yaml` release document contains a list of questions required for that release of Kubernetes.
 The goal of these files is to act as a template to be filled by the vendor for the corresponding Kubernetes Release. 
 
-All `MUST` statements must be fullfilled and documented to achieve Conformance. All `Should` components can be filled and documented.
+All `MUST` statements must be fulfilled and documented to achieve Conformance. All `SHOULD` components can be filled and documented.
 
 ## Release Freeze
 
