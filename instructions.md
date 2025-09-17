@@ -59,7 +59,7 @@ metadata:
 
 ### Requirements
 
-The Self conformance file need to submited without any adjusments or changes in spec to the fields `id, description, level`.
+The Self conformance file needs to be submitted without any adjustments or changes in spec to the fields `id, description, level`.
 The fields `status, evidence, and notes` need to be filled if the `level` is `MUST`.
 
 To reach conformance all `MUST` spec fields need to be addressed. The evidence needs to be publicly reachable. 
