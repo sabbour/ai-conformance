@@ -1,4 +1,4 @@
-# BETA: Get Involved In Defining AI Conformance
+# Get Involved In Defining AI Conformance
 
 *Join Kubernetes AI Conformance WG to get involved with defining kubernetes AI conformance efforts:*
 
