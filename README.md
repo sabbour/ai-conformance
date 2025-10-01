@@ -29,6 +29,8 @@ Also, note that any submission made to this repo will need to first pass a numbe
 
 ## Helpful Resources
 
+### [Frequently Asked Questions (FAQ)](faq.md)
+
 ### [WG AI Conformance Kubernetes](https://github.com/kubernetes/community/tree/master/wg-ai-conformance)
 
 The responsible body for the Content of the AI Conformance. The goal of this group is to define a standardized set of capabilities, APIs, and configurations that a Kubernetes cluster must offer to reliably and efficiently run AI/ML workloads.
