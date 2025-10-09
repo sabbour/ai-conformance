@@ -29,7 +29,7 @@ spec:
       level: MUST
       status: "Implemented"
       evidence: 
-        - "https://review.learn.microsoft.com/azure/aks/istio-gateway-api?branch=pr-en-us-1844"
+        - "https://learn.microsoft.com/azure/aks/istio-gateway-api"
       notes: ""
   schedulingOrchestration:
     - id: gang_scheduling
@@ -85,4 +85,5 @@ spec:
         - "https://learn.microsoft.com/azure/aks/ai-toolchain-operator"
         - "https://learn.microsoft.com/azure/aks/ray-overview"
       notes: ""
+
 
