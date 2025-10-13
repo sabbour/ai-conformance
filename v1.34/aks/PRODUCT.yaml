@@ -72,9 +72,9 @@ spec:
     - id: secure_accelerator_access
       description: "Ensure that access to accelerators from within containers is properly isolated and mediated by the Kubernetes resource management framework (device plugin or DRA) and container runtime, preventing unauthorized access or interference between workloads."
       level: MUST
-      status: ""
+      status: "Implemented"
       evidence:
-        - ""
+        - "https://github.com/Azure/AKS/tree/master/ai-conformance/v1.34/secure_accelerator_access"
       notes: ""
   operator:
     - id: robust_controller
@@ -85,6 +85,7 @@ spec:
         - "https://learn.microsoft.com/azure/aks/ai-toolchain-operator"
         - "https://learn.microsoft.com/azure/aks/ray-overview"
       notes: ""
+
 
 
 
